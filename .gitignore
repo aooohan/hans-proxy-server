@@ -1,0 +1,6 @@
+# dependencies
+/client/target
+/common/target
+/server/target
+.idea
+
